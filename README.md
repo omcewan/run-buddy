@@ -14,3 +14,5 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Orlando McEwan
 
 ### ©️2019 Run Buddy, Inc 
+
+## Orlando 
